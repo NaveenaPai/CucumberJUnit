@@ -1,0 +1,94 @@
+2022-09-17 21:43:44.167 [main] INFO  factory.DriverFactory - user_is_on_the_login_page() ----- Start
+2022-09-17 21:43:44.170 [main] INFO  factory.DriverFactory - Driver sucessfully initialised
+2022-09-17 21:43:47.567 [main] INFO  factory.DriverFactory - Sucessfully navigated to http://automationpractice.com/index.php
+2022-09-17 21:43:47.567 [main] INFO  factory.DriverFactory - user_is_on_the_login_page() ----- End
+2022-09-17 21:43:47.576 [main] INFO  factory.DriverFactory - Fetched the login page tile --> Login - My Store
+2022-09-17 21:43:47.583 [main] INFO  factory.DriverFactory - Validated the title to be Login - My Store
+2022-09-17 21:43:54.064 [main] INFO  factory.DriverFactory - user_is_on_the_login_page() ----- Start
+2022-09-17 21:43:54.065 [main] INFO  factory.DriverFactory - Driver sucessfully initialised
+2022-09-17 21:43:59.297 [main] INFO  factory.DriverFactory - Sucessfully navigated to http://automationpractice.com/index.php
+2022-09-17 21:43:59.297 [main] INFO  factory.DriverFactory - user_is_on_the_login_page() ----- End
+2022-09-17 21:43:59.427 [main] INFO  factory.DriverFactory - Entered user id :  qalearningspace@gmail.com
+2022-09-17 21:43:59.534 [main] INFO  factory.DriverFactory - Entered password :  Testing@123
+2022-09-17 21:44:02.896 [main] INFO  factory.DriverFactory - Successfully Logged in 
+2022-09-17 21:44:02.907 [main] INFO  factory.DriverFactory - Fetched the account page tile --> My account - My Store
+2022-09-17 21:44:02.908 [main] INFO  factory.DriverFactory - Verified the account page tile to be --> My account - My Store
+2022-09-17 21:44:09.916 [main] INFO  factory.DriverFactory - Test started for  i_want_to_write_a_step_with_precondition
+2022-09-17 21:44:09.917 [main] INFO  factory.DriverFactory - Test successful for  i_want_to_write_a_step_with_precondition :-> name1:5:success
+2022-09-17 21:44:09.917 [main] INFO  factory.DriverFactory - Test successful for  i_want_to_write_a_step_with_precondition :-> name2:7:Fail
+2022-09-17 21:44:09.920 [main] INFO  factory.DriverFactory - Test started for i_complete_action
+2022-09-17 21:44:09.920 [main] INFO  factory.DriverFactory - Test successful for i_complete_action 
+2022-09-17 21:44:09.921 [main] INFO  factory.DriverFactory - Test started for i_validate_the_outcomes
+2022-09-17 21:44:09.921 [main] INFO  factory.DriverFactory - Test successful for i_validate_the_outcomes
+2022-09-17 21:44:17.747 [main] INFO  factory.DriverFactory - Test started for i_want_to_write_a_step_with_precondition2
+2022-09-17 21:44:17.748 [main] INFO  factory.DriverFactory - Test successful for i_want_to_write_a_step_with_precondition2
+2022-09-17 21:44:17.749 [main] INFO  factory.DriverFactory - Test started for i_complete_action2
+2022-09-17 21:44:17.749 [main] INFO  factory.DriverFactory - Test successful for i_complete_action2
+2022-09-17 21:44:17.750 [main] INFO  factory.DriverFactory - Test started for i_validate_the_outcomes2 
+2022-09-17 21:44:17.750 [main] INFO  factory.DriverFactory - Test successful for i_validate_the_outcomes2
+2022-09-17 21:44:25.693 [main] INFO  factory.DriverFactory - Test started for i_want_to_write_a_step_with input name1
+2022-09-17 21:44:25.693 [main] INFO  factory.DriverFactory - Test successful for  i_want_to_write_a_step_with name1
+2022-09-17 21:44:25.694 [main] INFO  factory.DriverFactory - Test started for i_check_for_the_in_step with input5
+2022-09-17 21:44:25.694 [main] INFO  factory.DriverFactory - Test successful for i_check_for_the_in_step with input5
+2022-09-17 21:44:25.695 [main] INFO  factory.DriverFactory - Test started for i_verify_the_in_step with input success
+2022-09-17 21:44:25.695 [main] INFO  factory.DriverFactory - Test successful for i_verify_the_in_step with input success
+2022-09-17 21:44:32.752 [main] INFO  factory.DriverFactory - Test started for i_want_to_write_a_step_with input name2
+2022-09-17 21:44:32.752 [main] INFO  factory.DriverFactory - Test successful for  i_want_to_write_a_step_with name2
+2022-09-17 21:44:32.753 [main] INFO  factory.DriverFactory - Test started for i_check_for_the_in_step with input7
+2022-09-17 21:44:32.753 [main] INFO  factory.DriverFactory - Test successful for i_check_for_the_in_step with input7
+2022-09-17 21:44:32.754 [main] INFO  factory.DriverFactory - Test started for i_verify_the_in_step with input Fail
+2022-09-17 21:44:32.754 [main] INFO  factory.DriverFactory - Test successful for i_verify_the_in_step with input Fail
+2022-09-17 21:44:39.113 [main] INFO  factory.DriverFactory - user_has_already_logged_in_to_application ----- Start
+2022-09-17 21:44:39.113 [main] INFO  factory.DriverFactory - Driver sucessfully initialised
+2022-09-17 21:44:43.689 [main] INFO  factory.DriverFactory - Sucessfully navigated to http://automationpractice.com/index.php
+2022-09-17 21:44:45.430 [main] INFO  factory.DriverFactory - Sucessfully logged in using creadentiasl : qalearningspace@gmail.com, Testing@123
+2022-09-17 21:44:45.431 [main] INFO  factory.DriverFactory - user_has_already_logged_in_to_application ----- End
+2022-09-17 21:44:45.432 [main] INFO  factory.DriverFactory - user_is_on_accounts_page ----- Start
+2022-09-17 21:44:45.432 [main] INFO  factory.DriverFactory - user_is_on_accounts_page ----- End
+2022-09-17 21:44:45.433 [main] INFO  factory.DriverFactory - user_gets_the_title_of_the_next_landing_page_i_e_useraccount_page ----- Start
+2022-09-17 21:44:45.442 [main] INFO  factory.DriverFactory - Fetched the title --> My account - My Store
+2022-09-17 21:44:45.442 [main] INFO  factory.DriverFactory - user_gets_the_title_of_the_next_landing_page_i_e_useraccount_page ----- End
+2022-09-17 21:44:45.443 [main] INFO  factory.DriverFactory - useraccount_page_title_should_be ----- Start
+2022-09-17 21:44:45.444 [main] INFO  factory.DriverFactory - Sucessfully validated page title to be My account - My Store
+2022-09-17 21:44:45.444 [main] INFO  factory.DriverFactory - useraccount_page_title_should_be ----- End
+2022-09-17 21:44:52.140 [main] INFO  factory.DriverFactory - user_has_already_logged_in_to_application ----- Start
+2022-09-17 21:44:52.140 [main] INFO  factory.DriverFactory - Driver sucessfully initialised
+2022-09-17 21:44:54.691 [main] INFO  factory.DriverFactory - Sucessfully navigated to http://automationpractice.com/index.php
+2022-09-17 21:44:57.618 [main] INFO  factory.DriverFactory - Sucessfully logged in using creadentiasl : qalearningspace@gmail.com, Testing@123
+2022-09-17 21:44:57.618 [main] INFO  factory.DriverFactory - user_has_already_logged_in_to_application ----- End
+2022-09-17 21:44:57.619 [main] INFO  factory.DriverFactory - user_is_on_accounts_page ----- Start
+2022-09-17 21:44:57.619 [main] INFO  factory.DriverFactory - user_is_on_accounts_page ----- End
+2022-09-17 21:44:57.620 [main] INFO  factory.DriverFactory - user_gets_accounts_section ----- Start
+2022-09-17 21:44:57.752 [main] INFO  factory.DriverFactory - Sucessfully validated the options in account section [ORDER HISTORY AND DETAILS, MY CREDIT SLIPS, MY ADDRESSES, MY PERSONAL INFORMATION, MY WISHLISTS, Home]
+2022-09-17 21:44:57.753 [main] INFO  factory.DriverFactory - user_gets_accounts_section ----- End
+2022-09-17 21:44:57.754 [main] INFO  factory.DriverFactory - accounts_section_count_should_be ----- Start
+2022-09-17 21:44:57.765 [main] INFO  factory.DriverFactory - Sucessfully validated the no. of options in account section to be 6
+2022-09-17 21:44:57.765 [main] INFO  factory.DriverFactory - accounts_section_count_should_be ----- End
+2022-09-17 21:44:57.766 [main] INFO  factory.DriverFactory - log_out_of_the_application() ----- Start
+2022-09-17 21:45:00.313 [main] INFO  factory.DriverFactory - Successfully logged out
+2022-09-17 21:45:00.314 [main] INFO  factory.DriverFactory - log_out_of_the_application() ----- End
+2022-09-17 21:45:07.514 [main] INFO  factory.DriverFactory - Test started for  i_want_to_write_a_step_with_precondition
+2022-09-17 21:45:07.514 [main] INFO  factory.DriverFactory - Test successful for  i_want_to_write_a_step_with_precondition :-> name1:5:success
+2022-09-17 21:45:07.514 [main] INFO  factory.DriverFactory - Test successful for  i_want_to_write_a_step_with_precondition :-> name2:7:Fail
+2022-09-17 21:45:07.515 [main] INFO  factory.DriverFactory - Test started for i_complete_action
+2022-09-17 21:45:07.515 [main] INFO  factory.DriverFactory - Test successful for i_complete_action 
+2022-09-17 21:45:07.515 [main] INFO  factory.DriverFactory - Test started for i_validate_the_outcomes
+2022-09-17 21:45:07.515 [main] INFO  factory.DriverFactory - Test successful for i_validate_the_outcomes
+2022-09-17 21:45:13.989 [main] INFO  factory.DriverFactory - Test started for i_want_to_write_a_step_with_precondition2
+2022-09-17 21:45:13.989 [main] INFO  factory.DriverFactory - Test successful for i_want_to_write_a_step_with_precondition2
+2022-09-17 21:45:13.990 [main] INFO  factory.DriverFactory - Test started for i_complete_action2
+2022-09-17 21:45:13.990 [main] INFO  factory.DriverFactory - Test successful for i_complete_action2
+2022-09-17 21:45:13.990 [main] INFO  factory.DriverFactory - Test started for i_validate_the_outcomes2 
+2022-09-17 21:45:13.991 [main] INFO  factory.DriverFactory - Test successful for i_validate_the_outcomes2
+2022-09-17 21:45:21.266 [main] INFO  factory.DriverFactory - Test started for i_want_to_write_a_step_with input name1
+2022-09-17 21:45:21.267 [main] INFO  factory.DriverFactory - Test successful for  i_want_to_write_a_step_with name1
+2022-09-17 21:45:21.267 [main] INFO  factory.DriverFactory - Test started for i_check_for_the_in_step with input5
+2022-09-17 21:45:21.267 [main] INFO  factory.DriverFactory - Test successful for i_check_for_the_in_step with input5
+2022-09-17 21:45:21.268 [main] INFO  factory.DriverFactory - Test started for i_verify_the_in_step with input success
+2022-09-17 21:45:21.268 [main] INFO  factory.DriverFactory - Test successful for i_verify_the_in_step with input success
+2022-09-17 21:45:28.027 [main] INFO  factory.DriverFactory - Test started for i_want_to_write_a_step_with input name2
+2022-09-17 21:45:28.027 [main] INFO  factory.DriverFactory - Test successful for  i_want_to_write_a_step_with name2
+2022-09-17 21:45:28.028 [main] INFO  factory.DriverFactory - Test started for i_check_for_the_in_step with input7
+2022-09-17 21:45:28.028 [main] INFO  factory.DriverFactory - Test successful for i_check_for_the_in_step with input7
+2022-09-17 21:45:28.028 [main] INFO  factory.DriverFactory - Test started for i_verify_the_in_step with input Fail
+2022-09-17 21:45:28.028 [main] INFO  factory.DriverFactory - Test successful for i_verify_the_in_step with input Fail
